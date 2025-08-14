@@ -1,0 +1,9 @@
+langchain-community
+langchain-core
+sentence-transformers
+torch
+tqdm
+pdfplumber
+PyMuPDF
+tabula-py
+chromadb
